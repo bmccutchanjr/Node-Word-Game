@@ -1,0 +1,22 @@
+{
+  "name": "word-game",
+  "version": "1.0.0",
+  "description": "command line hangman with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmccutchanjr/Node-Word-Game.git"
+  },
+  "author": "Bill McCutchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmccutchanjr/Node-Word-Game/issues"
+  },
+  "homepage": "https://github.com/bmccutchanjr/Node-Word-Game#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
