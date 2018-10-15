@@ -2,7 +2,7 @@
 
 A simple version of the word game "Hang Man", demonstrating the use of modularization and JS constructors in NodeJS.
 
-Because this is a command line driven game, there is no web page to link to, but you can view a [video of the game here]("i have not reorded the video yet").
+Because this is a command line driven game, there is no web page to link to, but you can view a [video of the game here](i have not reorded the video yet).
 
 The functionality of the game is spread across four JavaScript files; `index.js`, `letter.js`, `lexicon.js` and `word.js`.
 
