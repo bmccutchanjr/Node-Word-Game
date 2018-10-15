@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bmccutchanjr/Node-Word-Game#readme",
   "dependencies": {
+    "chalk": "^2.4.1",
     "inquirer": "^6.2.0"
   }
 }
